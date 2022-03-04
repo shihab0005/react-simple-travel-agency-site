@@ -1,0 +1,14 @@
+.footer_container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(214, 183, 245);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+ul li{
+    list-style: none;
+    text-align: left;
+}
+

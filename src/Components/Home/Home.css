@@ -1,0 +1,32 @@
+.container{
+    
+    margin-top: 10px;
+}
+.container h1{
+    font-size: 40px;
+    font-weight: 900;
+    color: rgb(163, 65, 255);
+    margin-bottom: 10px;
+
+}
+.package_container h1{
+    color: rgb(76, 76, 252);
+    font-weight: 900;
+    margin-top: 30px;
+    
+}
+.div_card{
+    display: inline-block;
+    padding: 8px;
+    
+}
+.text{
+    font-weight: bold;
+    color: cornflowerblue;
+}
+.search{
+    background-color: rgb(197, 137, 253);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+}

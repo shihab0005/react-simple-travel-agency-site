@@ -1,0 +1,16 @@
+.registration_container{
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.registration_container form{
+   display: flex;
+   flex-direction: column;
+}
+.registration_container form input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px
+}

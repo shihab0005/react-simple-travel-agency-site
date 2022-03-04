@@ -1,0 +1,16 @@
+.form-container{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 178, 180);
+}
+.form-container form{
+    display: flex;
+    flex-direction: column;
+}
+.form-container form input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px
+}
